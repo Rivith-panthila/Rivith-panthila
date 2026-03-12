@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋, I'm Rivith Panthila
 
-<!--
-**Rivith-panthila/Rivith-panthila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Java Developer | JavaFX | MySQL | Layered Architecture
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- Gelinigama Food Corner 🍔 (Food Ordering System)
+- Stock Management System 📦
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Java, JavaFX, JDBC, MySQL
+- MVC & Layered Architecture
+- Git, GitHub
+
+## 📈 GitHub Stats
+![Rivith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rivith-panthila&show_icons=true&theme=radical)
+
+## 💬 Contact
+- Email: rivith@example.com
