@@ -1,25 +1,18 @@
 # Hi there 👋, I'm Rivith Panthila
 
-🌟 **Java Developer | JavaFX | MySQL | Layered Architecture**  
+🌟 **Java Developer | JavaFX | MySQL | Fullstack developer**  
 
 ---
 
-## 🚀 Projects
 
-### Gelinigama Food Corner 🍔
-![Demo](images/demo.gif)  
-*Food Ordering System using Layered Architecture, JavaFX & MySQL*
-
-### Stock Management System 📦
-![Demo](images/stock_demo.gif)  
-*Stock & Supplier Management System with Java & JDBC*
-
----
 
 ## 🛠️ Skills
 
-- Java, JavaFX, JDBC, MySQL  
-- MVC & Layered Architecture  
+- Java, JavaFX, JDBC, MySQL
+- springboot
+- Nodejs,reatjs,mern 
+- MVC & Layered Architecture
+- mysql,mongodb,postgre
 - Git, GitHub, GitHub Actions  
 
 ---
@@ -41,7 +34,7 @@
 
 ## 📬 Contact
 
-- Email: rivith@example.com  
+- Email: panthilarivith470@gmail.com  
 - LinkedIn: [Rivith Panthila](https://www.linkedin.com/in/rivith-panthila)  
 - GitHub: [@Rivith-panthila](https://github.com/Rivith-panthila)  
 
